@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 /**
+ * This is an overly simplified large battle simulator
+ * 
  * The war is huge and terrible and for now is being fought in a very narrow passageway where 
  * only one participant from each army can engage with the each other.
  *
